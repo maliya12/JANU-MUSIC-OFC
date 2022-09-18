@@ -39,7 +39,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94759928352'] //ur owner number
 global.ownername = "NIMANTHA MALSHAN" //ur owner name
 global.ytname = "YT: JANU MUSIC OFC" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.socialm = "FAEBOOK: THE RASTHA" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
@@ -49,7 +49,8 @@ global.botnumber = '94759928352' //Add your Bot Number For Log
 global.botname = 'JANU MUS OFC WA BOT' //ur bot name
 global.ig = "https://youtube.com/channel/UCwDR30iw9e9D7edUGMeMEUQ" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/channel/UCwDR30iw9e9D7edUGMeMEUQ" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
+global.sc = ' https://www.facebook.com/therastha13/  
+' //script link
 global.linkz = 'https://youtube.com/channel/UCwDR30iw9e9D7edUGMeMEUQ'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
